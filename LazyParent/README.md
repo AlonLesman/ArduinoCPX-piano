@@ -13,4 +13,4 @@ Speaker: The chosen wake-up call songs, such as "Take On Me" or "The Lion Sleeps
 LEDs (Light-Emitting Diodes): Parents can use the app to activate the CPX board's LEDs, creating a visually appealing display of rainbow colors in the child's room. This feature adds an element of surprise and joy to the child's morning routine.
 
 ### Here is a link for a video demonstration of our app: 
-  
+https://youtu.be/XQo4ZZOTkCo
